@@ -1,0 +1,39 @@
+{
+  "name": "huddlehack",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@huddle01/huddle01-iframe": "^0.0.8",
+    "@mui/material": "^5.11.2",
+    "@popperjs/core": "^2.11.6",
+    "@rainbow-me/rainbowkit": "^0.8.1",
+    "bootstrap": "^5.2.3",
+    "ethers": "^5.7.2",
+    "lodash.truncate": "^4.4.2",
+    "random-string": "^0.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.6.1",
+    "react-toastify": "^9.1.1",
+    "wagmi": "^0.9.5",
+    "web3.storage": "^4.4.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.26",
+    "@types/react-dom": "^18.0.9",
+    "@vitejs/plugin-react": "^3.0.0",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.20",
+    "sass": "^1.57.1",
+    "tailwindcss": "^3.2.4",
+    "vite": "^4.0.3"
+  }
+}
