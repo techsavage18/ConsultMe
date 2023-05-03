@@ -1,3 +1,3 @@
 # ConsultMe
  
-Demo Video: https://clipchamp.com/watch/v0vgKvLjYfz
+Demo Video: https://youtu.be/5ygHcIOvyH4
